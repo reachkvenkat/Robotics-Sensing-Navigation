@@ -1,0 +1,8 @@
+prefix=/home/reachkvenkat/Documents/EECE5554/eece5554_roboticssensing/LAB1/catkin_ws/devel
+
+Name: gnss_driver
+Description: Description of gnss_driver
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

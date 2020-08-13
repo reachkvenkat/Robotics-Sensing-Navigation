@@ -1,0 +1,2 @@
+1. I have completed Ubuntu 18.04 LTS install
+2. I have created a GitLab account using my husky email
